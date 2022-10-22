@@ -1,4 +1,4 @@
-package com.juaracoding.appium;
+package com.juaracoding.appiumrisna;
 
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.android.AndroidDriver;
@@ -8,7 +8,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-import pages.Calculator;
+import Risnapages.Calculator;
 
 import java.net.MalformedURLException;
 import java.net.URL;
